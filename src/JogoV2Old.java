@@ -9,7 +9,7 @@ public class JogoV2Old {
     //ele desempenha tarefas da seguinte forma:
     //60% de prob de comer
     //%20% de prob de caçar
-    //20% de prob de dormir
+    //20% de prob de dormir.
     //seu estado inicial é 5, 9, 2
 
     var p2 = new PersonagemOld("Gustavo", 5, 9, 2);
