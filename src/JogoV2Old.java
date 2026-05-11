@@ -8,7 +8,7 @@ public class JogoV2Old {
     //incluir novo personagem como nome, claro
     //ele desempenha tarefas da seguinte forma:
     //60% de prob de comer
-    //%20% de prob de caçar
+    //%20% de prob de caçar.
     //20% de prob de dormir.
     //seu estado inicial é 5, 9, 2
 
